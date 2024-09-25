@@ -14,7 +14,7 @@ import fetch from "node-fetch";
 
 const defaultMenu = {
   before: `
-🌟✨ *Welcome to ${botname}* ✨🌟
+🌟✨ *Welcome to SHAGEE BOT GROUP* ✨🌟
 ╭━━━⊱ 👤 *USER* 👤 ⊱━━━╮
 🖋️ *Name:* _%name_
 ╰━━━━━━━━━━━━━━━━╯
